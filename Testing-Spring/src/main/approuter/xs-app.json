@@ -1,0 +1,8 @@
+{
+  "welcomeFile": "index.html",
+  "routes": [{
+    "source": "^/demo",
+    "target": "/",
+    "destination": "demo-destination"
+  }]
+}
